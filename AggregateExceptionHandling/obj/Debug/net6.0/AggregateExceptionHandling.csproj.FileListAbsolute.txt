@@ -1,0 +1,15 @@
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/bin/Debug/net6.0/AggregateExceptionHandling
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/bin/Debug/net6.0/AggregateExceptionHandling.deps.json
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/bin/Debug/net6.0/AggregateExceptionHandling.runtimeconfig.json
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/bin/Debug/net6.0/AggregateExceptionHandling.dll
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/bin/Debug/net6.0/AggregateExceptionHandling.pdb
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.csproj.AssemblyReference.cache
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.AssemblyInfoInputs.cache
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.AssemblyInfo.cs
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.csproj.CoreCompileInputs.cache
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.dll
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/ref/AggregateExceptionHandling.dll
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.pdb
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/AggregateExceptionHandling.genruntimeconfig.cache
+/home/angel-filev/Dev/Rider/Experiment/AggregateExceptionHandling/obj/Debug/net6.0/refint/AggregateExceptionHandling.dll

@@ -1,0 +1,12 @@
+/home/angel-filev/Dev/Rider/Experiment/NullObject/bin/Debug/net7.0/NullObject.deps.json
+/home/angel-filev/Dev/Rider/Experiment/NullObject/bin/Debug/net7.0/NullObject.dll
+/home/angel-filev/Dev/Rider/Experiment/NullObject/bin/Debug/net7.0/NullObject.pdb
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.csproj.AssemblyReference.cache
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.GeneratedMSBuildEditorConfig.editorconfig
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.AssemblyInfoInputs.cache
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.AssemblyInfo.cs
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.csproj.CoreCompileInputs.cache
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.dll
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/refint/NullObject.dll
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/NullObject.pdb
+/home/angel-filev/Dev/Rider/Experiment/NullObject/obj/Debug/net7.0/ref/NullObject.dll

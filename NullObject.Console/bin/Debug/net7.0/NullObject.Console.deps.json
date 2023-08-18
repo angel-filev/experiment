@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NullObject.Console/1.0.0": {
+        "dependencies": {
+          "NullObject": "1.0.0"
+        },
+        "runtime": {
+          "NullObject.Console.dll": {}
+        }
+      },
+      "NullObject/1.0.0": {
+        "runtime": {
+          "NullObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NullObject.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NullObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
